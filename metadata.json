@@ -1,0 +1,6 @@
+{
+  "name": "StudySlay",
+  "description": "An engaging Gen Z styled study companion app with Room-persisted detailed notes, quick revision nodes, flowcharts, charts, doodle canvas, custom objective & subjective questions, and mock test preparation papers exported as elegant PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
